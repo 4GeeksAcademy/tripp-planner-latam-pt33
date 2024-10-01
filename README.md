@@ -9,8 +9,11 @@ Integrantes:
     Luis Rene Silva
 
 User story:
-    Como alguien que viaja con familia y amigos como turistas, quiero una app colaborativa donde enumerar las posibles actividades, evaluar costos necesarios, y de disfrute, para aprovechar al maximo mi presupuesto, y que ademas todo mi grupo de viaje pueda ver la misma informacion que yo y podamos escoger entre todos las atracciones y/o restaurantes a donde ir, los paseos que hacer, etc. Posiblemente incluso tener como una lista de mercado que incluya costos si vamos a cocinar en lugar de salir. Tambien me gustaria saber las horas de llegada de todos los viajeros.
+    Como alguien que le gusta viajar, quiero una app colaborativa donde enumerar las posibles actividades, evaluar costos para aprovechar al maximo mi viaje solo o en grupo. 
 
+features:
+ --reaccionar a las experiencias/actividades
+ --Dividir las experiencias en categorias ?
 
 --------------------------------------------------- Front-End -------------------------------------------------------------------
 // Vista del home
